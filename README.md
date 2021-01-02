@@ -2,7 +2,7 @@
 
 Live Demo 👉 https://tiktok-clone-cedcf.web.app/
 
-![Here is the Image](https://i.imgur.com/MaHnHSh.png)
+![Here is the Image](Capture.PNG)
 
 
 - Made by Nabeel Tariq Bhatti
